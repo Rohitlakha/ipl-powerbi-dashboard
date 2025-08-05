@@ -10,7 +10,7 @@ Feel free to explore, download, or reuse!
 
 ## 📁 Recommended Folder Structure
 
-``bash
+```bash
 ipl-powerbi-dashboard/
 │
 ├── 📊 IPL_Dashboard.pbix     # Your Power BI file
